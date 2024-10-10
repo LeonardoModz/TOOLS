@@ -18,7 +18,7 @@ printf "\e[1;77m ╚════██║██║   ██║██║     █�
 printf "\e[1;77m ███████║╚██████╔╝╚██████╗██║██║  ██║███████╗██║     ██║  ██║██║███████║██║  ██║ \e[0m\n"
 printf "\e[1;77m ╚══════╝ ╚═════╝  ╚═════╝╚═╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝ \e[0m\n"
 printf "\n"
-printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool coded by: @Hak9 \e[0m\e[1;93m.:.:.\e[0m\n"
+printf "\e[1;93m       .:.:.\e[0m\e[1;77m SOCIAL TOOL DESEKVOLVIDO POR @LEO MODZ OFC\e[0m\e[1;93m.:.:.\e[0m\n"
 printf "\n"
 }
 
