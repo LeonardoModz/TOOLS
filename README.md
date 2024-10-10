@@ -1,14 +1,14 @@
-# SocialPhish v1.6+
+## SOCIALPISHING V1.6+
 
-The most complete Phishing Tool, with 32 templates +1 customizable
+A FERRAMENTA DE PHISHING MAIS COMPLETA, COM 32 MODELOS +1 PERSONALIZÁVEL
 
-## Legal disclaimer:
-Usage of SocialPhish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
+## VISO LEGAL:
+O USO DO SOCIALPHISH PARA ATACAR ALVOS SEM CONSENTIMENTO MÚTUO PRÉVIO É ILEGAL. É O FIM 
 
 
-##### Usage:
+## INSTALAÇÃO DA FERRAMENTA
 ```
-git clone https://github.com/pvanfas/socialphish.git
+git clone https://github.com/LeonardoModz/TOOLS
 cd SocialPhish
 chmod +x socialphish.sh
 ./socialphish.sh
